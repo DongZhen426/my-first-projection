@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>无标题项目</name>
+	<gx:CascadingStyle kml:id="__managed_style_207AFA687C366D1E5661">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BEAFFAC9A366D1E5661">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0AAE1BFFC9366D1E5661">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BEAFFAC9A366D1E5661</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_207AFA687C366D1E5661</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="089EB6CD11366D1E565C">
+		<name>裂隙</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+		<Placemark id="095E9B4F25366D1FAB0C">
+			<name>LZ1</name>
+			<LookAt>
+				<longitude>113.5859360617953</longitude>
+				<latitude>22.34676188380059</latitude>
+				<altitude>2.594742041937044</altitude>
+				<heading>358.6319444488123</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>366.6253526567743</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5851944481984,22.34675722821743,5.898217135669734</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B438C8C35366D20D74F">
+			<name>LZ6</name>
+			<LookAt>
+				<longitude>113.5857783387406</longitude>
+				<latitude>22.3501110154266</latitude>
+				<altitude>5.06334295172975</altitude>
+				<heading>358.6319417044265</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>236.2393734392026</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5856776901118,22.35022022491972,5.243168707508159</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A8570C6F1366D23DE99">
+			<name>LZ2</name>
+			<LookAt>
+				<longitude>113.5853178798619</longitude>
+				<latitude>22.34786658146779</latitude>
+				<altitude>26.1828461280304</altitude>
+				<heading>358.6319361010717</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>409.1095677968407</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5863305780979,22.34820614768165,10.32350129650005</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="039E4725FB366D24A44C">
+			<name>LZ3</name>
+			<LookAt>
+				<longitude>113.5853338633989</longitude>
+				<latitude>22.34801647160868</latitude>
+				<altitude>29.707369926653</altitude>
+				<heading>358.6319358718948</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>451.4174014057789</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5863352683246,22.34840975862387,6.919073930782121</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="086959B758366D25DA08">
+			<name>LZ5</name>
+			<LookAt>
+				<longitude>113.5853876099331</longitude>
+				<latitude>22.34929442210032</latitude>
+				<altitude>15.80470516744531</altitude>
+				<heading>358.6319328525078</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>460.2936339221924</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5858175347553,22.34973289777633,5.6373531049228</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="072E404B44366D27090A">
+			<name>LZ7</name>
+			<LookAt>
+				<longitude>113.58561233652</longitude>
+				<latitude>22.35027599551256</latitude>
+				<altitude>5.326724182373168</altitude>
+				<heading>358.6319296497794</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>331.0715642116702</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5856365235047,22.35051440187243,5.176616975364475</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0481874E69366D27BB6D">
+			<name>LZ4</name>
+			<LookAt>
+				<longitude>113.5858790242211</longitude>
+				<latitude>22.34934862582541</latitude>
+				<altitude>6.291847570918037</altitude>
+				<heading>358.6319282059722</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>421.5241389867151</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0AAE1BFFC9366D1E5661</styleUrl>
+			<Point>
+				<coordinates>113.5859450100884,22.34921243853442,6.633679125823146</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
